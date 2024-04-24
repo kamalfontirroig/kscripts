@@ -1,5 +1,5 @@
 # kscripts
-Kubectl scripts para no perder el tiempo copy-pasting.
+Kubectl scripts para no perder el tiempo copy-pasting. BCI times.
 
 # Instalación
 1) Descargar los scripts en la carpeta deseada.
