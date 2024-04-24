@@ -4,7 +4,7 @@ Kubectl scripts para no perder el tiempo copy-pasting. BCI times.
 # Instalación
 1) Descargar los scripts en la carpeta deseada.
    
-2) Configurar su terminal preferido agregando a su profile:
+2) Configurar su terminal preferido agregando a su archivo profile:
 ```
 export KUBECTL_LOG_FOLDER='<ruta_carpeta_logs>'
 alias klog='sh <ruta_carpeta_scripts>/kubectl_download_pod_log.sh'
